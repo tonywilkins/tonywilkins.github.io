@@ -11,6 +11,7 @@ function clicked() {
     if(pass.value == corpass) {
 
       window.alert("You are logged in as " + user.value);
+      window.open("URL")
 
     } else {
 
